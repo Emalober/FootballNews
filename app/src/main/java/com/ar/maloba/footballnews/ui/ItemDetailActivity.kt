@@ -1,10 +1,11 @@
-package com.ar.maloba.footballnews
+package com.ar.maloba.footballnews.ui
 
 import android.content.Intent
 import android.os.Bundle
 import android.support.design.widget.Snackbar
 import android.support.v7.app.AppCompatActivity
 import android.view.MenuItem
+import com.ar.maloba.footballnews.R
 import kotlinx.android.synthetic.main.activity_item_detail.*
 
 /**
